@@ -136,12 +136,6 @@ sh test.sh path/to/checkpoint_directory
 
 
 
-## Checkpoints
-
-Due to the double-blind rules, we cannot provide our checkpoints for DIDA. We will make all codes publicly available after review.
-
-
-
 ## Framework Structure
 
 DIDA mainly alters the UDA functions of Self-training.
